@@ -8,4 +8,4 @@ SOURCES += \
         main.cpp
 
 HEADERS += \
-    Ejercicio.h
+    Ejercicio1.h
