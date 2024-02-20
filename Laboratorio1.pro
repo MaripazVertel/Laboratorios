@@ -5,6 +5,7 @@ CONFIG -= qt
 
 SOURCES += \
         Ejercicio1.cpp \
+        Ejercicio2.cpp \
         main.cpp
 
 HEADERS += \
