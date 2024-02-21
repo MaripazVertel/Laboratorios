@@ -7,6 +7,7 @@ SOURCES += \
         Ejercicio1.cpp \
         Ejercicio2.cpp \
         Ejercicio3.cpp \
+        Ejercicio4.cpp \
         main.cpp
 
 HEADERS += \
