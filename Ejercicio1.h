@@ -2,5 +2,6 @@
 #define EJERCICIO1_H
 
 //int Ejercicio1();
-int Ejercicio2();
+//int Ejercicio2();
+int Ejercicio3();
 #endif // EJERCICIO1_H
