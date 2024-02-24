@@ -9,6 +9,11 @@
 //int Ejercicio6();
 //int Ejercicio7();
 //int Ejercicio8();
-int Ejercicio9();
+//int Ejercicio9();
+//int Ejercicio10();
+//int Ejercicio11();
+//int Ejercicio12();
+//int Ejercicio13();
+int Ejercicio14();
 
 #endif // EJERCICIO1_H
