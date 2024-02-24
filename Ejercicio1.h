@@ -5,5 +5,7 @@
 //int Ejercicio2();
 //int Ejercicio3();
 //int Ejercicio4();
-int Ejercicio5();
+//int Ejercicio5();
+//int Ejercicio6();
+int Ejercicio7();
 #endif // EJERCICIO1_H
