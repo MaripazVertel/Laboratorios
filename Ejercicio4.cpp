@@ -44,17 +44,17 @@ int Ejercicio4(){
     }
 
     //convierto hora a numero entero
-    int hora_1 = std::stoi(hora1);
+    int hora_1 = stoi(hora1);
     //cout <<hora_1 << " Hora1 ya en entero"<< endl;
 
     //convierto minutos a entero
-    int min_1 = std::stoi(min1);
+    int min_1 = stoi(min1);
     //cout <<min_1 << " Minuto1 ya en entero"<< endl;
 
-    int hora_2 = std::stoi(hora2);
+    int hora_2 = stoi(hora2);
     //cout <<hora_2 << " Hora2 ya en entero"<< endl;
 
-    int min_2 = std::stoi(min2);
+    int min_2 = stoi(min2);
     //cout <<min_2 << " Minuto2 ya en entero"<< endl;
 
     //validacion

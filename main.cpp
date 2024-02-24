@@ -11,6 +11,8 @@ int main()
     //Ejercicio4();
     //Ejercicio5();
     //Ejercicio6();
-    Ejercicio7();
+    //Ejercicio7();
+    //Ejercicio8();
+    Ejercicio9();
     return 0;
 }
