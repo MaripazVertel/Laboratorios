@@ -10,6 +10,7 @@ SOURCES += \
         Ejercicio12.cpp \
         Ejercicio13.cpp \
         Ejercicio14.cpp \
+        Ejercicio15.cpp \
         Ejercicio2.cpp \
         Ejercicio3.cpp \
         Ejercicio4.cpp \
